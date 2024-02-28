@@ -1,0 +1,25 @@
+/* public/css/style.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 80%;
+  margin: 20px auto;
+}
+
+.post {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+.post-content {
+  color: #333;
+}
